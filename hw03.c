@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/
 typedef enum {
   NAME_ONLY = 0,
   MAJOR_AND_NAME = 1, 
